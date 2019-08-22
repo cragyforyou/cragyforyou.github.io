@@ -101,8 +101,6 @@ udp://239.192.58.11:49220
 udp://239.192.58.3:49220
 #EXTINF:-1 tvg-id="153" tvg-logo="http://i.imgur.com/tLtSTaq.png" tvh-chnum="136" tvh-tags="OGN",OGN
 udp://239.192.58.5:49220
-#EXTINF:-1 tvg-id="6" tvg-logo="http://i.imgur.com/zReu7df.png" tvh-chnum="234" tvh-tags="예술 TV아르떼",Arte TV
-udp://239.192.58.6:49220
 #EXTINF:-1 tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvh-chnum="15" tvh-tags="JTBC",JTBC
 udp://239.192.58.7:49220
 #EXTINF:-1 tvg-id="105" tvg-logo="http://i.imgur.com/Jcfjs9E.png" tvh-chnum="190" tvh-tags="KBS kids",KBS KIDS
@@ -229,8 +227,6 @@ udp://239.192.69.108:49220
 udp://239.192.69.109:49220
 #EXTINF:-1 tvg-id="313" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvh-chnum="39" tvh-tags="현대홈쇼핑+샵",현대홈쇼핑+Shop
 udp://239.192.69.110:49220 (2)
-#EXTINF:-1 tvg-id="94" tvg-logo="http://i.imgur.com/oUUZQdi.png" tvh-chnum="236" tvh-tags="i-Concerts",i-Concerts
-udp://239.192.69.110:49220
 #EXTINF:-1 tvg-id="46" tvg-logo="http://i.imgur.com/RxsYny9.png" tvh-chnum="158" tvh-tags="CNN International",CNN International
 udp://239.192.69.111:49220
 #EXTINF:-1 tvg-id="28" tvg-logo="http://i.imgur.com/yBNo2mS.png" tvh-chnum="300" tvh-tags="CBS",CBS
@@ -415,5 +411,3 @@ udp://239.192.69.80:49220
 udp://239.192.69.81:49220
 #EXTINF:-1 tvg-id="43" tvg-logo="http://i.imgur.com/fNuqGzR.png" tvh-chnum="93" tvh-tags="CMC가족오락TV",CMC 가족오락TV
 udp://239.192.69.9:49220
-#EXTINF:-1 tvg-id="94" tvg-logo="http://i.imgur.com/oUUZQdi.png" tvh-chnum="236" tvh-tags="i-Concerts",i-Concerts
-udp://239.192.69.99:49220
